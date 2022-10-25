@@ -19,13 +19,8 @@
 
 - GitHub: [@utsargo](https://github.com/utsargo)
 - Twitter: [@royutsargo](https://twitter.com/royutsargo)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/utsargo-roy/)
+
 
 ## 🤝 Contributing
 
